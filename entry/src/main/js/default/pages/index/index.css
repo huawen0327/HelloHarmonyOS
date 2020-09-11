@@ -1,0 +1,45 @@
+/*.container {*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+.container
+{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: url("plane.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.div-box
+{
+    position: fixed;
+    width: 300px;
+    height: 110px;
+    left: 210px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 30px;
+/*    text-align: center;*/
+/*    margin: auto;*/
+    margin-top: 120px;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+h1
+{
+    text-decoration:underline;
+    font-size: 10px;
+}
+.image
+{
+    position: fixed;
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+<div class="container">
+    <div>
+        <image src="../../common/plane.jpg" class="image"></image>
+        <div class="div-box">
+            <div>
+                <text style="font-size: 20px;width: 100%;">Hello HarmonyOS !</text>
+            </div>
+            <div>
+                <text style="font-size: 10px;width: 80%;margin-top: 10px;margin-left: 5px;">This is my first App for HarmonyOS</text>
+            </div>
+        </div>
+    </div>
+</div>
